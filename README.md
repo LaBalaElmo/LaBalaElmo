@@ -47,11 +47,3 @@ This project is made in NestJS and is a backend REST API app for a web page of m
 ### Crypto Currency
 I have developed a cryptocurrency on the goerli testnet, this project was made with React and Solidity for the smart contract. The web page only shows the basic operations of a cryptocurrency. Click <a href="https://c-coin-5f3a3.web.app/">here</a> to redirect to the page.
 
-<h3> My GitHub Stats </h3>
-
-<div align ="center">
-  <a href="https://github.com/labalaelmo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LaBalaElmo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labalaelmo&layout=compact"/>
-  </a>
-</div>
